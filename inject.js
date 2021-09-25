@@ -18,7 +18,7 @@ export default ({ router }) => {
       g.setAttribute('data-domain', DOMAIN);
       g.async=true;
       g.defer=true;
-      g.src='https://plausible.io/js/plausible.js';
+      g.src='https://stat.imgradeone.com/js/plausible.js';
       s.parentNode.insertBefore(g,s);
     })();
   }
