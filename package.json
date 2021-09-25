@@ -1,7 +1,7 @@
 {
-  "name": "vuepress-plugin-plausible",
-  "version": "0.0.2",
-  "description": "Plausible.io Analytics plugin for VuePress",
+  "name": "vuepress-plugin-plausible-imgradeone",
+  "version": "0.0.3",
+  "description": "Modified Plausible Analytics plugin for VuePress",
   "main": "index.js",
   "scripts": {
     "publish": "git push origin --tags && git push origin",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spekulatius/vuepress-plugin-plausible.git"
+    "url": "git+https://github.com/imgradeone/vuepress-plugin-plausible.git"
   },
   "keywords": [
     "vue",
@@ -22,13 +22,13 @@
     "plausible"
   ],
   "author": {
-    "name": "Peter Thaleikis",
-    "url": "https://www.peterthaleikis.com"
+    "name": "imgradeone",
+    "url": "https://www.imgradeone.com"
   },
   "license": "MIT",
-  "homepage": "https://github.com/spekulatius/vuepress-plugin-plausible",
+  "homepage": "https://github.com/imgradeone/vuepress-plugin-plausible",
   "bugs": {
-    "url": "https://github.com/spekulatius/vuepress-plugin-plausible/issues"
+    "url": "https://github.com/imgradeone/vuepress-plugin-plausible/issues"
   },
   "engines": {
     "node": ">=8"
